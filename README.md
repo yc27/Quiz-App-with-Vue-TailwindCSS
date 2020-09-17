@@ -1,4 +1,4 @@
-# quize-app-vue-tailwind
+# Quiz App with Vue.js and TailwindCSS
 
 ## Project setup
 ```
@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Screenshot
+![alt text](/resources/Screenshot-001.png?raw=true "Screenshot")
